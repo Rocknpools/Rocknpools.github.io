@@ -1,0 +1,18 @@
+# Education Template
+# - layout: left
+#   name: Aalborg University Aalborg, Denmark
+#   dates: 2017-2020
+#   qualification: Ph.D., Mm-Wave Antennas for Small Satellite Communications
+#   #quote: >
+#     #Short institution or course description (optional)
+#   description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  name: University of Catania Catania, Italy
+  jobs:
+    - title: Master Degree in Telecommunication Engineering
+      dates: 2013-2017
+    - title: Bachelor Degree in Telecommunication Engineering
+      dates: 2008-2013
+  description: | # this will include new lines to allow paragraphs
+    The University of Catania is where I learned most of the key skills that I have taken through my career. I thoroughly enjoyed my time at the university and learned a lot about a healthy work-life balance.

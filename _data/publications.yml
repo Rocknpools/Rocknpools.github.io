@@ -1,0 +1,46 @@
+# Education Template
+- layout: top-middle
+  name: Integrated Active Phased Array Antenna for SmallSat Inter-Satellite Communications in K-band
+  dates: 2020
+  #qualification: Ph.D., Mm-Wave Antennas for Small Communications
+  quote: >
+    Submitted to IEEE Transaction on Industrial Electronics
+  #description: | # this will include new lines to allow paragraphs
+    #publication description
+
+- layout: top-middle
+  name: Investigation of Surface Roughness Impact on a 24GHz Eight-Way Hybrid-Based Power Divider
+  dates: 2020
+  #qualification: Ph.D., Mm-Wave Antennas for Small Communications
+  quote: >
+    Submitted to IEEE Transaction on Industrial Electronics
+  #description: | # this will include new lines to allow paragraphs
+    #publication description
+
+- layout: top-middle
+  name: X-Band Dual Circularly Polarized Patch Antenna With High Gain for Small Satellites
+  dates: July 2019
+  #qualification: Ph.D., Mm-Wave Antennas for Small Communications
+  quote: >
+    IEEE Access
+  description: | # this will include new lines to allow paragraphs
+    This paper presents an X-band circularly polarized patch antenna.
+    High gain, in combination with a dual-sense circular polarization, makes the proposed antenna particularly attractive for space applications involving small satellites. With the proposed design, it is possible to employ only one antenna rather than two (RHCP and LHCP), thus saving space on the aircraft, which is clearly a limited resource.
+
+- layout: top-middle
+  name: A Telemetry, Tracking, and Command Antennas System for Small Satellites Applications
+  dates: June 2019
+  #qualification: Ph.D., Mm-Wave Antennas for Small Communications
+  quote: >
+    MDPI Electronics
+  description: | # this will include new lines to allow paragraphs
+    This paper presents an antenna for a TT&C system consisting of four antennas to achieve a wide quasi-isotropic coverage. The developed low-cost antenna can be used for small-satellite data downlink where only two right hand circular polarized (RHCP) antennas and two left hand circular polarized (LHCP) antennas would be required since each antenna has an adequate CP gain on a wide angle.
+
+- layout: top-middle
+  name: Wideband or Dual-Band Low-Profile Circular Patch Antenna with High Gain and Sidelobe Suppression
+  dates: June 2018
+  #qualification: Ph.D., Mm-Wave Antennas for Small Communications
+  quote: >
+    IEEE Transactions on Antennas and Propagation
+  description: | # this will include new lines to allow paragraphs
+    This paper presents a wideband or dual-band circular disk antenna with high gain and sidelobe suppression (SLS). The antenna has a single layer and single-fed configuration. Wideband or dual-band behavior can be achieved with high gain and SLS.

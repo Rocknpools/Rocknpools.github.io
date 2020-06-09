@@ -1,0 +1,60 @@
+# Experience template
+- layout: left
+  company: Aalborg University <br> Aalborg, Denmark
+  link: https://www.es.aau.dk/sections-labs/antennas-propagation-millimetre-wave-systems/
+  jobs:
+    - title: Assistant Researcher
+      dates: June 2020 - Present
+    - title: Ph.D. Fellow
+      dates: June 2017 - May 2020
+    - title: Guest Researcher
+      dates: November 2016 - May 2017
+    - title: Erasmus Student
+      dates: February 2016 - June 2016
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    My experience at Aalborg University started during the final part of my master degree as an Erasmus student at the electronic systems department, more precisely at the Antennas, Propagation, and Millimetre-Wave Systems Section (APMS). The subsequent step was my Ph.D. in mm-waves antennas for small satellite communications.
+    <p>
+    Small satellites have drawn significant attention in the communication industry as miniaturization technologies make it feasible to build smaller satellites than those built a decade ago. The primary concern of traditional satellite communication systems is the high cost. To remain competitive in this emerging business area, small-satellites solutions must meet flexible customer requirements, e.g. multi-frequency bands and data rates, inter-satellite links) in a cost-effective way. However, using currently available low-frequency radio technologies will result in some limitations like design with too large antennas and circuit power consumptions that are not compatible with the “Smallsat” approach. Millimeter-wave and beam steerable antennas are one of the most promising candidates for future small satellite applications.    The outcome of this Ph.D. project could be used for the next-generation wireless communication systems for small-satellite applications.
+
+
+- layout: left
+  company: GomSpace <br> Aalborg, Denmark
+  link: https://gomspace.com
+  job_title: Antenna Engineer
+  dates: Septermber 2019 - May 2020
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    My effort at GomSpace was focused on the development of a k-band antenna for inter-satellite communications. The outcome of this project was a product fully compliant with mechanical, electrical, and thermal requirements therefore ready to be tested for fly in space. The realization of this goal involved a full-time commitment at GomSpace to better handle all the strict requirements (especially mechanical and thermal ones) and practical aspects that have to be fulfilled before the satellite is deployed in space.
+
+- layout: left
+  company: Sicilsat Communications <br> Catania, Italy
+  link: http://www.sicilsat.com/
+  job_title: Junior Antenna Engineer
+  dates: January 2014 - January 2016
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    I worked at Sicilsat as a part-time antenna engineer during my master degree. In there I refined my theoretical knowledge about antennas and microwave components, as well as my knowledge in antenna measuring and testing.
+
+- layout: left
+  company: Motorsquare <br> Catania, Italy
+  #link: http://www.sicilsat.com/
+  job_title: Co-Founder
+  dates: December 2013 - December 2018
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    During my time at Motorsquare, I learned lots of key skills such as teamwork and project management. I use a lot of these skills to my advantage in my day to day work.
+
+- layout: left
+  company: Temix <br> Catania, Italy
+  #link: http://www.sicilsat.com/
+  job_title: Internship
+  dates: February 2013 - September 2013
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    I started my internship at Temix during the last part of my bachelor degree. There I had my first experience with software for full-wave electromagnetic simulation as well as my first experience working in a corporate environment.
