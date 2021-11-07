@@ -4,6 +4,12 @@
   link: https://www.isotropicsystems.com/
   job_title: Senior Antenna Engineer
   dates: December 2020 - Present
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    At Isotropic Systems I'm responsible of the design,analysis and test of RX/TX antenna feeds.  
+    As Senior Antenna Engineer, during the design phase, I work closely with members from the lens team and active components team in order to find optimal solutions and guarantee continuous improvement of the overal product and system.
+    Each design proposal is optimized by using both conventional full wave electro-magnetic software and tools developed in-house (Matlab/Python based)  
 
 - layout: left
   company: GomSpace <br> Aalborg, Denmark

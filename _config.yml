@@ -4,7 +4,7 @@ repository: Rocknpools/Rocknpools.github.io
 
 # Personal info
 name: Paolo Squadrito
-title: Antenna Engineer
+title: Senior Antenna Engineer
 email: paolosquadrito89@gmail.com
 canonicalurl: https://rocknpools.github.io
 #phone: Your phone number (optional)
@@ -93,7 +93,6 @@ skills: |
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   As well as Antennas and IT, I also enjoy doing the following:
-   - Following technology developments
    - Games
    - Reading
    - Building things, particularly with LEGO
