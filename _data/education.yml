@@ -6,6 +6,24 @@
 #   #quote: >
 #     #Short institution or course description (optional)
 #   description: | # this will include new lines to allow paragraphs
+- layout: left
+  company: Aalborg University <br> Aalborg, Denmark
+  link: https://www.es.aau.dk/sections-labs/antennas-propagation-millimetre-wave-systems/
+  jobs:
+    - title: Assistant Researcher
+      dates: June 2020 - November 2020
+    - title: Ph.D. Fellow
+      dates: June 2017 - May 2020
+    - title: Guest Researcher
+      dates: November 2016 - May 2017
+    - title: Erasmus Student
+      dates: February 2016 - June 2016
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    My experience at Aalborg University started during the final part of my master degree as an Erasmus student at the electronic systems department, more precisely at the Antennas, Propagation, and Millimetre-Wave Systems Section (APMS). The subsequent step was my Ph.D. in mm-waves antennas for small satellite communications.
+    <p>
+    Small satellites have drawn significant attention in the communication industry as miniaturization technologies make it feasible to build smaller satellites than those built a decade ago. The primary concern of traditional satellite communication systems is the high cost. To remain competitive in this emerging business area, small-satellites solutions must meet flexible customer requirements, e.g. multi-frequency bands and data rates, inter-satellite links) in a cost-effective way. However, using currently available low-frequency radio technologies will result in some limitations like design with too large antennas and circuit power consumptions that are not compatible with the “Smallsat” approach. Millimeter-wave and beam steerable antennas are one of the most promising candidates for future small satellite applications.    The outcome of this Ph.D. project could be used for the next-generation wireless communication systems for small-satellite applications.
 
 - layout: left
   name: University of Catania Catania, Italy

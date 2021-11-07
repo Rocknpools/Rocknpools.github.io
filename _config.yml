@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   **Nationality:** Italian
 
-  **Location:** Aalborg (Denmark)
+  **Location:** Reading (United Kingdom)
 
   **Languages:** italian (native speaker), english (fluent), french (basic)
 
@@ -75,6 +75,7 @@ skills: |
     - Antennas for Small Satellite Terminal
     - Printed Circuit Board (PCB) Design
     - Antenna Measurements
+    - Phased Array Calibration
 
   **Design Software:**
   - CST
